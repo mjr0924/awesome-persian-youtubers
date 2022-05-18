@@ -178,5 +178,11 @@
     "description": "coding is cool",
     "website": "http://www.neonlearn.ir",
     "channel": "https://www.youtube.com/c/neonlearn"
+  },
+  {
+    "channelName": "OpenCode",
+    "description": "learn to code with opencode",
+    "website": "",
+    "channel": "https://www.youtube.com/c/OpenCode"
   }
 ]
